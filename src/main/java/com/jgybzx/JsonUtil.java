@@ -20,10 +20,6 @@ import java.util.*;
  * @description json工具类
  */
 
-/**
- *
- *
- */
 public class JsonUtil {
 
     /**
